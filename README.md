@@ -12,7 +12,7 @@ This code aims to segment the annotated files of the darknet custom dataset into
 2. Upload the desired images and annotations to the folder;
 3. Run the notebook cells in order or just run the **.py** file in the same path of your `dataset`, as shown below:
 
-```python
+```bash
 .
 ├── dataset
 │   ├── image-0.txt
