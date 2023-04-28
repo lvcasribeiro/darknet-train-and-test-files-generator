@@ -27,7 +27,7 @@ This code aims to segment the annotated files of the darknet custom dataset into
 ###### 2. Script changes needed:
 Create and configure your path to fit it on your files on line 81 of the .py file:
 ```python
-# Adicione o caminho da sua pasta dataset aqui:
+# Path to your dataset directory:
 dataset_path = r'\your\path\here';
 ```
 
